@@ -1,5 +1,6 @@
 #title {
   background-color: #fff;
+  color:white;
 }
 .navbar-brand-short {
   font-family: 'Abel', sans-serif;
@@ -369,4 +370,7 @@ body{
 }
 .navbar{
   background-color:indigo;
+}
+.nav-link{
+color: white;
 }
